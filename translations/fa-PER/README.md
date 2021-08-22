@@ -1,6 +1,6 @@
-<div dir="rtl">
-# bash-handbook
-</div>
+
+# bash-هندبوک
+
 
 [![CC 4.0][cc-image]][cc-url]
 [![NPM version][npm-image]][npm-url]
