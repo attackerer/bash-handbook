@@ -1,4 +1,4 @@
-
+<div dir="rtl">
 # bash-هندبوک
 
 
@@ -1028,4 +1028,4 @@ Finally, Stack Overflow has many questions that are [tagged as bash](https://sta
 
 [gitter-url]: https://gitter.im/denysdovhan/bash-handbook
 [gitter-image]: https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square
-
+</div>
